@@ -23,8 +23,7 @@ namespace DemoXML
 
                    }
                }
-
-
+               
                // .........ON and OFF this lines of code.....................................................
                //if ((xmlReader.NodeType == XmlNodeType.Element))
                //{
